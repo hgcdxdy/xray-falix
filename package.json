@@ -1,0 +1,1 @@
+{"description":"Node.js wrapper that runs xray (VLESS + XHTTP/WS) on PaaS platforms without Dockerfile support","engines":{"node":">=18"},"main":"server.js","name":"xray-node-wrapper","scripts":{"start":"node server.js"},"version":"1.0.0"}
